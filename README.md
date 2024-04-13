@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vijay</h1>
-<h3 align="center">A passionate software engineer from India</h3>
-<img src="https://th.bing.com/th/id/R.54c9af226721e95539a5cd9592d635bb?rik=pQNFNX3MXrFJdQ&riu=http%3a%2f%2fstore.outsourcingpundit.com%2fwp-content%2fuploads%2f2019%2f01%2ffocus-animation.gif&ehk=68Llss3Mjyn992cDHPwHGdT7F4pj746e%2fDDu6l4ZzHA%3d&risl=&pid=ImgRaw&r=0" width="400">
+<h3 align="center">A code-crunching dynamo from the LeetCode lanes of India❤️</h3>
+
+<img src="https://th.bing.com/th/id/R.54c9af226721e95539a5cd9592d635bb?rik=pQNFNX3MXrFJdQ&riu=http%3a%2f%2fstore.outsourcingpundit.com%2fwp-content%2fuploads%2f2019%2f01%2ffocus-animation.gif&ehk=68Llss3Mjyn992cDHPwHGdT7F4pj746e%2fDDu6l4ZzHA%3d&risl=&pid=ImgRaw&r=0" width="300" align="right">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vixaiganxk&label=Profile%20views&color=0e75b6&style=flat" alt="vixaiganxk" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vixaiganxk" alt="vixaiganxk" /></a> </p>
 
 - 🌱 I’m currently learning **FastAPI, React JS**
 
@@ -21,6 +21,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vixaiganxk&show_icons=true&locale=en&layout=compact" alt="vixaiganxk" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vixaiganxk&show_icons=true&locale=en" alt="vixaiganxk" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=vixaiganxk&show_icons=true&locale=en" alt="vixaiganxk" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vixaiganxk&" alt="vixaiganxk" /></p>
+
